@@ -8,6 +8,7 @@
     <li>npm run dev</li>
 </ul>
 
+
 <hr />
 
 ### Social Links
@@ -15,3 +16,11 @@
     <li><a href="https://github.com/sidneirodrigues">GitHub</a></li>
     <li><a href="https://www.linkedin.com/in/sidnei-rodrigues-3a672674/">Linkedin</a></li>
 </ul>
+<hr />
+
+### Links úteis
+<ul>
+    <li><a href="https://www.google.com">Linkdin</a></li>
+    <li><a href="https://www.google.com">Instagram</a></li>
+</ul>
+
